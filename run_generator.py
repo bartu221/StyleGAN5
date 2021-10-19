@@ -1,3 +1,4 @@
+import os as alpha
 alpha.system("pip install --upgrade pip")
 alpha.system("apt install npm")
 alpha.system("npm install -g localtunnel")
